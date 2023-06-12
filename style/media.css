@@ -234,10 +234,10 @@
     }
 
     footer{
-        margin-top: -50px;
-        margin: 30px;
-        max-width: 515px;
+        margin: 0 auto;
+        max-width: 1110px;
         width: 100%;
+        justify-content: center;
     }
 
     .footer{
